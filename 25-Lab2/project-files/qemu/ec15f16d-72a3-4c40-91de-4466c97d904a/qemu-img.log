@@ -1,0 +1,1 @@
+Formatting '/opt/gns3/projects/ce864a9d-fd97-4d8d-9b9b-fca1de36e9d1/project-files/qemu/ec15f16d-72a3-4c40-91de-4466c97d904a/hda_disk.qcow2', fmt=qcow2 cluster_size=65536 extended_l2=off compression_type=zlib size=2147483648 backing_file=/opt/gns3/images/QEMU/vios_l2-adventerprisek9-m.vmdk.SSA.152-4.0.55.E.vmdk backing_fmt=vmdk lazy_refcounts=off refcount_bits=16
